@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben Meyya
+
+💻 Bilgisayar Programcılığı öğrencisiyim  
+🚀 Kendimi geliştirmeye devam ediyorum  
+📚 Yeni teknolojiler öğrenmeye devam ediyorum  
+
+## 🛠️ Teknolojiler
+- 💙 Flutter & Dart
+- 📱 Mobil Uygulama Geliştirme
+- Python
+- Java
+- C#
+
+## 🎯 Hedeflerim
+- Daha fazla proje yapmak  
+- Kendimi sürekli geliştirmek  
 
 <!--
 **meyya-mertoglu/meyya-mertoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
